@@ -1,0 +1,33 @@
+{
+  "name": "mini-market-shift-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "gate": "node scripts/engine-gate.mjs",
+    "sync:unity-config": "node scripts/sync-unity-config.mjs",
+    "simulate": "node src/cli/simulate.mjs",
+    "analyze:telemetry": "node scripts/analyze-telemetry.mjs",
+    "import:unity-smoke": "node scripts/import-runtime-smoke-report.mjs",
+    "check:unity-liveops": "node scripts/validate-runtime-smoke-liveops.mjs",
+    "ci:pr": "npm test && npm run check:unity-liveops -- --input docs/runtime-smoke/runtime-smoke-report.device.json --output artifacts/unity/runtime-smoke-liveops-check.pr.json --max-age-days 14 --strict",
+    "ci:pr:hotfix": "npm test && npm run check:unity-liveops -- --input docs/runtime-smoke/runtime-smoke-report.device.json --output artifacts/unity/runtime-smoke-liveops-check.pr.json --max-age-days 30 --strict",
+    "gh:apply-branch-protection": "node scripts/apply-branch-protection-gh.mjs",
+    "build:kpi-snapshot": "node scripts/build-kpi-snapshot.mjs",
+    "build:segment-report": "node scripts/build-segment-launch-report.mjs",
+    "build:segment-overrides": "node scripts/build-segment-overrides.mjs",
+    "build:market-brief": "node scripts/build-market-radar-brief.mjs",
+    "build:creative-batch": "node scripts/build-ua-creative-batch.mjs",
+    "build:creative-scripts": "node scripts/build-creative-script-pack.mjs",
+    "build:liveops-lite": "node scripts/build-liveops-lite.mjs",
+    "build:ua-package": "node scripts/build-ua-package.mjs",
+    "review:creative-performance": "node scripts/review-creative-performance.mjs",
+    "apply:creative-review": "node scripts/apply-creative-review.mjs",
+    "scaffold:market-signals": "node scripts/scaffold-weekly-radar-signals.mjs",
+    "run:liveops-cycle": "node scripts/run-liveops-cycle.mjs",
+    "evaluate:gates": "node scripts/evaluate-launch-gates.mjs",
+    "recommend:tuning": "node scripts/recommend-tuning.mjs",
+    "apply:overrides": "node scripts/apply-tuning-overrides.mjs",
+    "test": "node --test"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "segments": [
+    {
+      "country": "KR",
+      "platform": "android",
+      "ad_spend_usd": 700,
+      "installs": 350
+    },
+    {
+      "country": "US",
+      "platform": "android",
+      "ad_spend_usd": 1400,
+      "installs": 650
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "weights": {
+    "sdk_fit": 40,
+    "dev_speed": 40,
+    "stability_perf": 20
+  },
+  "evaluated_at": "2026-04-08T06:07:00.863Z",
+  "candidates": [
+    {
+      "engine": "Unity",
+      "sdk_fit": 9.2,
+      "dev_speed": 8.5,
+      "stability_perf": 8.4,
+      "notes": "Highest ad/analytics SDK coverage for mobile hybrid-casual shipping.",
+      "weighted_score": 8.76
+    },
+    {
+      "engine": "Godot",
+      "sdk_fit": 7.1,
+      "dev_speed": 8.8,
+      "stability_perf": 8.2,
+      "notes": "Fast iteration, but ad monetization integrations are narrower for this scope.",
+      "weighted_score": 8
+    }
+  ],
+  "selected_engine": "Unity",
+  "tie_break_rule": "If weighted score ties, select Unity"
+}

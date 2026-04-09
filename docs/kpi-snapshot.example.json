@@ -1,0 +1,9 @@
+{
+  "installs": 1000,
+  "d1_retention": 0.27,
+  "d3_retention": 0.11,
+  "d7_retention": 0.062,
+  "rewarded_ad_participation": 0.29,
+  "payer_conversion": 0.012,
+  "cpi": 2.1
+}

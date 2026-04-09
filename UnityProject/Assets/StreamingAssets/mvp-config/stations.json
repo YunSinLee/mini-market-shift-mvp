@@ -1,0 +1,17 @@
+[
+  {
+    "id": "prep_counter",
+    "name": "Prep Counter",
+    "base_throughput_per_min": 14
+  },
+  {
+    "id": "cook_line",
+    "name": "Cook Line",
+    "base_throughput_per_min": 10
+  },
+  {
+    "id": "checkout",
+    "name": "Checkout",
+    "base_throughput_per_min": 18
+  }
+]

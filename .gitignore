@@ -1,0 +1,8 @@
+node_modules/
+artifacts/
+
+UnityProject/[Ll]ibrary/
+UnityProject/[Tt]emp/
+UnityProject/[Oo]bj/
+UnityProject/[Ll]ogs/
+UnityProject/[Uu]ser[Ss]ettings/

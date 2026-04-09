@@ -1,0 +1,29 @@
+[
+  {
+    "id": "remove_ads",
+    "name": "No Ads Forever",
+    "kind": "non_consumable",
+    "base_price_usd": 4.99,
+    "coins": 0,
+    "ad_free": true,
+    "booster_tokens": 0
+  },
+  {
+    "id": "starter_bundle",
+    "name": "Starter Bundle",
+    "kind": "consumable",
+    "base_price_usd": 2.99,
+    "coins": 500,
+    "ad_free": false,
+    "booster_tokens": 1
+  },
+  {
+    "id": "booster_bundle",
+    "name": "Booster Bundle",
+    "kind": "consumable",
+    "base_price_usd": 5.99,
+    "coins": 1200,
+    "ad_free": false,
+    "booster_tokens": 3
+  }
+]

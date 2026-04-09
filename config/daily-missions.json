@@ -1,0 +1,23 @@
+[
+  {
+    "id": "mission_serve_customers",
+    "name": "Serve 120 customers",
+    "type": "serve_customers",
+    "goal": 120,
+    "reward_coins": 150
+  },
+  {
+    "id": "mission_watch_rewarded_ad",
+    "name": "Watch 2 rewarded ads",
+    "type": "watch_rewarded_ad",
+    "goal": 2,
+    "reward_coins": 100
+  },
+  {
+    "id": "mission_purchase_upgrade",
+    "name": "Purchase 2 upgrades",
+    "type": "purchase_upgrade",
+    "goal": 2,
+    "reward_coins": 200
+  }
+]

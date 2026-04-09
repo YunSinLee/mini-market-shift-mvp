@@ -1,0 +1,32 @@
+{
+  "meta_ads": {
+    "destination_url": {
+      "default": "https://example.com/mini-market-shift?channel=meta",
+      "by_country": {
+        "KR": "https://example.com/kr/mini-market-shift?channel=meta",
+        "US": "https://example.com/us/mini-market-shift?channel=meta"
+      }
+    },
+    "cta": {
+      "by_country": {
+        "KR": "지금 플레이",
+        "US": "Play now"
+      }
+    }
+  },
+  "tiktok_ads": {
+    "destination_url": {
+      "default": "https://example.com/mini-market-shift?channel=tiktok",
+      "by_country": {
+        "KR": "https://example.com/kr/mini-market-shift?channel=tiktok",
+        "US": "https://example.com/us/mini-market-shift?channel=tiktok"
+      }
+    },
+    "cta": {
+      "by_country": {
+        "KR": "지금 시작",
+        "US": "Install now"
+      }
+    }
+  }
+}

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "U01",
+    "name": "Prep Knife Set",
+    "category": "station_multiplier",
+    "target_station": "prep_counter",
+    "cost": 100,
+    "multiplier": 1.1
+  },
+  {
+    "id": "U02",
+    "name": "Cookware Upgrade",
+    "category": "station_multiplier",
+    "target_station": "cook_line",
+    "cost": 120,
+    "multiplier": 1.1
+  },
+  {
+    "id": "U03",
+    "name": "Express Scanner",
+    "category": "station_multiplier",
+    "target_station": "checkout",
+    "cost": 130,
+    "multiplier": 1.1
+  },
+  {
+    "id": "U04",
+    "name": "Prep Counter V2",
+    "category": "station_multiplier",
+    "target_station": "prep_counter",
+    "cost": 220,
+    "multiplier": 1.15
+  },
+  {
+    "id": "U05",
+    "name": "Cook Line V2",
+    "category": "station_multiplier",
+    "target_station": "cook_line",
+    "cost": 240,
+    "multiplier": 1.15
+  },
+  {
+    "id": "U06",
+    "name": "Checkout V2",
+    "category": "station_multiplier",
+    "target_station": "checkout",
+    "cost": 260,
+    "multiplier": 1.15
+  },
+  {
+    "id": "U07",
+    "name": "Workflow Training",
+    "category": "global_throughput_multiplier",
+    "cost": 320,
+    "multiplier": 1.05
+  },
+  {
+    "id": "U08",
+    "name": "Combo Menu",
+    "category": "order_value_multiplier",
+    "cost": 350,
+    "multiplier": 1.08
+  },
+  {
+    "id": "U09",
+    "name": "Staff Briefing",
+    "category": "staff_multiplier",
+    "cost": 400,
+    "multiplier": 1.05
+  },
+  {
+    "id": "U10",
+    "name": "Prep Express Rack",
+    "category": "station_flat",
+    "target_station": "prep_counter",
+    "cost": 450,
+    "flat_throughput": 2
+  },
+  {
+    "id": "U11",
+    "name": "Cook Express Rack",
+    "category": "station_flat",
+    "target_station": "cook_line",
+    "cost": 480,
+    "flat_throughput": 2
+  },
+  {
+    "id": "U12",
+    "name": "Checkout Express Rack",
+    "category": "station_flat",
+    "target_station": "checkout",
+    "cost": 500,
+    "flat_throughput": 2
+  },
+  {
+    "id": "U13",
+    "name": "Workflow Pro",
+    "category": "global_throughput_multiplier",
+    "cost": 580,
+    "multiplier": 1.08
+  },
+  {
+    "id": "U14",
+    "name": "Premium Menu",
+    "category": "order_value_multiplier",
+    "cost": 620,
+    "multiplier": 1.1
+  },
+  {
+    "id": "U15",
+    "name": "Shift Optimization",
+    "category": "staff_multiplier",
+    "cost": 680,
+    "multiplier": 1.08
+  },
+  {
+    "id": "U16",
+    "name": "Prep Counter V3",
+    "category": "station_multiplier",
+    "target_station": "prep_counter",
+    "cost": 760,
+    "multiplier": 1.2
+  },
+  {
+    "id": "U17",
+    "name": "Cook Line V3",
+    "category": "station_multiplier",
+    "target_station": "cook_line",
+    "cost": 820,
+    "multiplier": 1.2
+  },
+  {
+    "id": "U18",
+    "name": "Checkout V3",
+    "category": "station_multiplier",
+    "target_station": "checkout",
+    "cost": 860,
+    "multiplier": 1.2
+  },
+  {
+    "id": "U19",
+    "name": "Master Workflow",
+    "category": "global_throughput_multiplier",
+    "cost": 920,
+    "multiplier": 1.1
+  },
+  {
+    "id": "U20",
+    "name": "Signature Menu",
+    "category": "order_value_multiplier",
+    "cost": 1000,
+    "multiplier": 1.15
+  }
+]

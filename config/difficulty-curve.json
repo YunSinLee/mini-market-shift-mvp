@@ -1,0 +1,182 @@
+[
+  {
+    "stage": 1,
+    "demand_multiplier": 1,
+    "order_value_multiplier": 1,
+    "completion_goal_customers": 25
+  },
+  {
+    "stage": 2,
+    "demand_multiplier": 1.035,
+    "order_value_multiplier": 1.015,
+    "completion_goal_customers": 50
+  },
+  {
+    "stage": 3,
+    "demand_multiplier": 1.07,
+    "order_value_multiplier": 1.03,
+    "completion_goal_customers": 75
+  },
+  {
+    "stage": 4,
+    "demand_multiplier": 1.105,
+    "order_value_multiplier": 1.045,
+    "completion_goal_customers": 100
+  },
+  {
+    "stage": 5,
+    "demand_multiplier": 1.14,
+    "order_value_multiplier": 1.06,
+    "completion_goal_customers": 125
+  },
+  {
+    "stage": 6,
+    "demand_multiplier": 1.175,
+    "order_value_multiplier": 1.075,
+    "completion_goal_customers": 150
+  },
+  {
+    "stage": 7,
+    "demand_multiplier": 1.21,
+    "order_value_multiplier": 1.09,
+    "completion_goal_customers": 175
+  },
+  {
+    "stage": 8,
+    "demand_multiplier": 1.245,
+    "order_value_multiplier": 1.105,
+    "completion_goal_customers": 200
+  },
+  {
+    "stage": 9,
+    "demand_multiplier": 1.28,
+    "order_value_multiplier": 1.12,
+    "completion_goal_customers": 225
+  },
+  {
+    "stage": 10,
+    "demand_multiplier": 1.315,
+    "order_value_multiplier": 1.135,
+    "completion_goal_customers": 250
+  },
+  {
+    "stage": 11,
+    "demand_multiplier": 1.35,
+    "order_value_multiplier": 1.15,
+    "completion_goal_customers": 275
+  },
+  {
+    "stage": 12,
+    "demand_multiplier": 1.385,
+    "order_value_multiplier": 1.165,
+    "completion_goal_customers": 300
+  },
+  {
+    "stage": 13,
+    "demand_multiplier": 1.42,
+    "order_value_multiplier": 1.18,
+    "completion_goal_customers": 325
+  },
+  {
+    "stage": 14,
+    "demand_multiplier": 1.455,
+    "order_value_multiplier": 1.195,
+    "completion_goal_customers": 350
+  },
+  {
+    "stage": 15,
+    "demand_multiplier": 1.49,
+    "order_value_multiplier": 1.21,
+    "completion_goal_customers": 375
+  },
+  {
+    "stage": 16,
+    "demand_multiplier": 1.525,
+    "order_value_multiplier": 1.225,
+    "completion_goal_customers": 400
+  },
+  {
+    "stage": 17,
+    "demand_multiplier": 1.56,
+    "order_value_multiplier": 1.24,
+    "completion_goal_customers": 425
+  },
+  {
+    "stage": 18,
+    "demand_multiplier": 1.595,
+    "order_value_multiplier": 1.255,
+    "completion_goal_customers": 450
+  },
+  {
+    "stage": 19,
+    "demand_multiplier": 1.63,
+    "order_value_multiplier": 1.27,
+    "completion_goal_customers": 475
+  },
+  {
+    "stage": 20,
+    "demand_multiplier": 1.665,
+    "order_value_multiplier": 1.285,
+    "completion_goal_customers": 500
+  },
+  {
+    "stage": 21,
+    "demand_multiplier": 1.7,
+    "order_value_multiplier": 1.3,
+    "completion_goal_customers": 525
+  },
+  {
+    "stage": 22,
+    "demand_multiplier": 1.735,
+    "order_value_multiplier": 1.315,
+    "completion_goal_customers": 550
+  },
+  {
+    "stage": 23,
+    "demand_multiplier": 1.77,
+    "order_value_multiplier": 1.33,
+    "completion_goal_customers": 575
+  },
+  {
+    "stage": 24,
+    "demand_multiplier": 1.805,
+    "order_value_multiplier": 1.345,
+    "completion_goal_customers": 600
+  },
+  {
+    "stage": 25,
+    "demand_multiplier": 1.84,
+    "order_value_multiplier": 1.36,
+    "completion_goal_customers": 625
+  },
+  {
+    "stage": 26,
+    "demand_multiplier": 1.875,
+    "order_value_multiplier": 1.375,
+    "completion_goal_customers": 650
+  },
+  {
+    "stage": 27,
+    "demand_multiplier": 1.91,
+    "order_value_multiplier": 1.39,
+    "completion_goal_customers": 675
+  },
+  {
+    "stage": 28,
+    "demand_multiplier": 1.945,
+    "order_value_multiplier": 1.405,
+    "completion_goal_customers": 700
+  },
+  {
+    "stage": 29,
+    "demand_multiplier": 1.98,
+    "order_value_multiplier": 1.42,
+    "completion_goal_customers": 725
+  },
+  {
+    "stage": 30,
+    "demand_multiplier": 2.015,
+    "order_value_multiplier": 1.435,
+    "completion_goal_customers": 750
+  }
+]

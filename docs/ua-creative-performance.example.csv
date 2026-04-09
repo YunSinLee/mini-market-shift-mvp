@@ -1,0 +1,6 @@
+date,creative_id,country,platform,impressions,clicks,installs,spend_usd
+2026-04-05,creative_01,US,android,12000,480,210,420
+2026-04-05,creative_02,KR,android,9500,430,90,320
+2026-04-05,creative_03,US,android,11000,360,170,340
+2026-04-05,creative_04,KR,android,8000,190,120,240
+2026-04-05,creative_05,US,android,7000,140,110,176

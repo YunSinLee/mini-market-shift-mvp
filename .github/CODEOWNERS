@@ -1,0 +1,17 @@
+# Default owner for all repository paths.
+* @iyunsin
+
+# CI / governance
+/.github/workflows/* @iyunsin
+/.github/pull_request_template.md @iyunsin
+/.github/CODEOWNERS @iyunsin
+
+# Core gameplay/runtime
+/UnityProject/Assets/Scripts/** @iyunsin
+/src/** @iyunsin
+/scripts/** @iyunsin
+/config/** @iyunsin
+
+# Launch gate and smoke report inputs
+/docs/runtime-smoke/** @iyunsin
+/docs/github-branch-protection.md @iyunsin

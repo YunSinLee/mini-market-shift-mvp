@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-04-08T00:00:00.000Z",
+  "passed": true,
+  "persistent_data_path": "/tmp",
+  "report_path": "/tmp/runtime-smoke-report.json",
+  "summary": {
+    "stage": 3,
+    "session_seconds": 120,
+    "session_revenue": 120.5,
+    "total_coins": 300.1,
+    "served_customers": 40,
+    "failed_customers": 3,
+    "interstitial_shown": false
+  },
+  "missions": [
+    {
+      "id": "mission_serve_customers_d04",
+      "name": "Serve 120 customers",
+      "type": "serve_customers",
+      "progress": 102,
+      "goal": 102,
+      "reward_coins": 190,
+      "completed": true,
+      "claimed": true
+    },
+    {
+      "id": "mission_watch_rewarded_ad",
+      "name": "Watch 2 rewarded ads",
+      "type": "watch_rewarded_ad",
+      "progress": 2,
+      "goal": 2,
+      "reward_coins": 140,
+      "completed": true,
+      "claimed": true
+    },
+    {
+      "id": "mission_purchase_upgrade_d04",
+      "name": "Purchase 2 upgrades",
+      "type": "purchase_upgrade",
+      "progress": 2,
+      "goal": 2,
+      "reward_coins": 230,
+      "completed": true,
+      "claimed": true
+    }
+  ],
+  "liveops": {
+    "applied": true,
+    "file_found": true,
+    "source_path": "/tmp/mvp-config/liveops-lite-plan.json",
+    "iso_day_index": 4,
+    "selected_day_label": "day_4",
+    "selected_primary_goal": "retention_recovery",
+    "active_event_ids": [],
+    "notes": [
+      "daily_mission_template_applied",
+      "remote_patch:economy_multiplier",
+      "ab_patch:ab_offer_timing"
+    ]
+  },
+  "telemetry": [
+    {
+      "user_id": "u1",
+      "country": "KR",
+      "platform": "android",
+      "build_version": "0.1.0",
+      "session_id": "s1",
+      "event_time": "2026-04-08T00:00:01.000Z",
+      "event_name": "session_start",
+      "payload_json": "{\"starting_stage\":1}"
+    }
+  ]
+}

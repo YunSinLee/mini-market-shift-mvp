@@ -1,0 +1,7 @@
+{
+  "economy_multiplier": 1,
+  "ad_cooldown_sec": 90,
+  "rewarded_ad_multiplier": 2,
+  "iap_price_tier": "tier_1",
+  "difficulty_curve_id": "default_v1"
+}
