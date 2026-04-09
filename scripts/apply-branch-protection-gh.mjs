@@ -73,7 +73,6 @@ function buildPayload({
     },
     enforce_admins: false,
     required_pull_request_reviews: {
-      dismissal_restrictions: {},
       dismiss_stale_reviews: false,
       require_code_owner_reviews: requireCodeOwners,
       required_approving_review_count: approvalCount,
